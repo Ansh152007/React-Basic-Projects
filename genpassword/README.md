@@ -15,10 +15,6 @@ This password generator allows users to customize their password length and incl
 - React
 - Tailwind CSS
 
-## 📸 Preview
-
-![App Screenshot](./screenshot.png) <!-- Replace with your actual screenshot file path -->
-
 ## 📂 Getting Started
 
 ```bash
