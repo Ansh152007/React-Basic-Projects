@@ -19,7 +19,7 @@ This password generator allows users to customize their password length and incl
 
 ```bash
 git clone https://github.com/yourusername/react-password-generator.git
-cd react-password-generator
+cd genpassword
 npm install
 npm start
 ``
